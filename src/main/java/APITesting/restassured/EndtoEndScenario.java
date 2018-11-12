@@ -49,7 +49,7 @@ public class EndtoEndScenario extends ReusableMethods {
 				String placeid=js.get("place_id");
 				System.out.println(placeid);
 				
-		given().
+		given(). 
 				queryParam("key",prop.getProperty("KEY")).
 				body("{"+
 						  "\"place_id\": \""+placeid+"\""+
