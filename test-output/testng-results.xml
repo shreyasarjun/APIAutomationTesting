@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5204" started-at="2018-11-12T01:09:52Z" finished-at="2018-11-12T01:09:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5204" started-at="2018-11-12T01:09:52Z" finished-at="2018-11-12T01:09:57Z">
+      <class name="APITesting.restassured.EndtoEndScenario">
+        <test-method status="PASS" signature="endtoend()[pri:0, instance:APITesting.restassured.EndtoEndScenario@68c4039c]" name="endtoend" duration-ms="5130" started-at="2018-11-12T06:39:52Z" finished-at="2018-11-12T06:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtoend -->
+      </class> <!-- APITesting.restassured.EndtoEndScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
